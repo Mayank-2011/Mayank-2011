@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JavaScript, DevOps**
 
-- 👨‍💻 All of my projects are available at ["https://github.com/Mayank-2011/Web-Development-Projects.git" and "https://github.com/Mayank-2011/python-projects.git"]("https://github.com/Mayank-2011/Web-Development-Projects.git" and "https://github.com/Mayank-2011/python-projects.git")
+- 👨‍💻 All of my projects are available at ("https://github.com/Mayank-2011/Web-Development-Projects.git" and "https://github.com/Mayank-2011/python-projects.git")
 
 - 📫 How to reach me **jainmayank@myyahoo.com**
 
